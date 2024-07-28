@@ -28,8 +28,6 @@ export default {
     display: flex;
     justify-content: space-between; /* Distributes space between elements */
     align-items: center; /* Aligns items vertically */
-    padding: 10px 20px;
-    background-color: #f8f9fa; /* Light gray background */
   }
 
   .navbar-left {
@@ -44,7 +42,7 @@ export default {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #377FB6;
+    background-color: transparent;
   }
   li {
     float: left;

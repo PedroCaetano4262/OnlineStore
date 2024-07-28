@@ -7,9 +7,10 @@
     </ul>
     <ul class="navbar-right">
       <li><a href="">Login</a></li>
-      <li><a href="Registe.vue">Sign Up</a></li>
+      <li><a href="">Sign Up</a></li>
     </ul>
   </div>
+
 </template>
 
 <script>
@@ -57,7 +58,7 @@ export default {
   }
 
   li a:hover{
-    background-color: pink;
+    background-color: #E99330;
     font-weight: bold;
   }
 </style>
